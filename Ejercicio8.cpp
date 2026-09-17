@@ -6,5 +6,5 @@ int main()
     int c=y*3;
     int d=x-y;
     cout<<c<<" "<<d<<endl;
-    return 0;
+    return 0;  
 }
